@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="TSPI测试"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/spring-aop-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aspects-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aspects-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aspects-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-4.1.0.RELEASE.jar" sourcepath="C:/Users/47649/.m2/repository/org/springframework/spring-beans/4.1.0.RELEASE/spring-beans-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-4.1.0.RELEASE.jar" sourcepath="C:/Users/47649/.m2/repository/org/springframework/spring-context/4.1.0.RELEASE/spring-context-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-support-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-support-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-support-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-instrument-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-instrument-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-instrument-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-instrument-tomcat-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-instrument-tomcat-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-instrument-tomcat-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jms-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jms-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jms-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-messaging-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-messaging-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-messaging-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-orm-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-orm-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-orm-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-oxm-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-oxm-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-oxm-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-test-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-test-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-test-4.1.0.RELEASE.jar" sourcepath="C:/Users/47649/.m2/repository/org/springframework/spring-test/4.1.0.RELEASE/spring-test-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-portlet-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-portlet-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-portlet-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-websocket-4.1.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/spring-websocket-4.1.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-websocket-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/android-support-v7-appcompat.jar"/>
+	<classpathentry kind="lib" path="lib/beautyeye_lnf.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-all-5.15.8.jar"/>
+	<classpathentry kind="lib" path="lib/json-20180813.jar"/>
+	<classpathentry kind="lib" path="lib/messageutil.jar"/>
+	<classpathentry kind="lib" path="lib/jxl.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jna-platform-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-3.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

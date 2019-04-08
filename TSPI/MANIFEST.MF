@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: app.USB2XXXUSBDeviceTest
+Class-Path: lib/jna-4.2.1.jar lib/jna-platform-4.2.1.jar
